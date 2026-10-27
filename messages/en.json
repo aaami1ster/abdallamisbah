@@ -1,0 +1,300 @@
+{
+  "Metadata": {
+    "title": "Abdalla Misbah | Senior Software Engineer & Banking Integration",
+    "titleTemplate": "%s | Abdalla Misbah",
+    "description": "Senior Software Engineer in Riyadh with 15+ years of experience in Java, Spring Boot, microservices, banking integration, fintech, and enterprise software architecture."
+  },
+  "Brand": {
+    "name": "Abdalla Misbah",
+    "role": "Software Engineer",
+    "homeLabel": "Abdalla Misbah — home"
+  },
+  "SkipLink": "Skip to content",
+  "Nav": {
+    "label": "Primary",
+    "about": "About",
+    "projects": "Projects",
+    "experience": "Experience",
+    "articles": "Writing",
+    "contact": "Contact",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "menuTitle": "Navigation"
+  },
+  "Theme": {
+    "toggle": "Toggle color theme"
+  },
+  "Language": {
+    "switchTo": "عربي",
+    "switchToLabel": "اقرأ هذه الصفحة بالعربية"
+  },
+  "Footer": {
+    "rights": "© {year} Abdalla Misbah",
+    "github": "GitHub",
+    "linkedin": "LinkedIn",
+    "email": "Email",
+    "privacy": "Privacy",
+    "credits": "Credits & Licenses",
+    "profiles": "Profiles and links"
+  },
+  "Home": {
+    "eyebrow": "Software Engineering · Banking · Fintech",
+    "greeting": "Hi, I'm Abdalla Misbah.",
+    "role": "Senior Software Engineer.",
+    "tagline": "Building reliable systems for banking, fintech & enterprise.",
+    "intro": "I'm a software engineer with 15+ years of experience designing and integrating enterprise platforms. I specialize in Java, Spring Boot, microservices, event-driven architecture, and complex payment and banking integrations.",
+    "location": "Riyadh, Saudi Arabia",
+    "domain": "Banking & Fintech",
+    "diagram": {
+      "panelTitle": "System Architecture / Conceptual View",
+      "caption": "Concept illustration — not a real bank system topology.",
+      "title": "Conceptual system architecture",
+      "desc": "Digital channels connect through an API gateway to an integration middleware layer, which links core banking, a payment hub and domain services over a Kafka event bus."
+    },
+    "highlights": {
+      "label": "Professional highlights",
+      "years": {
+        "value": "15+",
+        "label": "Years of experience"
+      },
+      "engineers": {
+        "value": "8",
+        "label": "Engineers led"
+      },
+      "stack": {
+        "value": "Java",
+        "label": "Spring Boot & backend"
+      }
+    },
+    "about": {
+      "heading": "Engineering systems that connect businesses, technology, and people.",
+      "p1": "My career spans more than 15 years across digital banking, fintech, telecommunications, and enterprise software. I have worked as a software engineer, backend team lead, and software architect, designing systems that integrate complex platforms and support critical business operations.",
+      "p2": "My work combines hands-on backend development with architecture, technical leadership, and cross-team collaboration. I focus on reliable APIs, resilient integration patterns, maintainability, and practical engineering decisions."
+    },
+    "expertise": {
+      "heading": "Expertise",
+      "banking": {
+        "title": "Banking & Payments",
+        "description": "Core banking, payment hubs, IPS/SARIE, SWIFT and middleware integration."
+      },
+      "architecture": {
+        "title": "Software Architecture",
+        "description": "Microservices, event-driven systems, CQRS and distributed integration patterns."
+      },
+      "backend": {
+        "title": "Backend Engineering",
+        "description": "Java, Spring Boot, Node.js, NestJS and API development."
+      },
+      "devops": {
+        "title": "Cloud & DevOps",
+        "description": "Kubernetes, Kafka, Docker, CI/CD and observability."
+      }
+    },
+    "cta": {
+      "heading": "Let's build something reliable.",
+      "body": "Interested in backend engineering, banking integration, system architecture, or technical collaboration? I'd be glad to connect.",
+      "button": "Get in Touch"
+    }
+  },
+  "NotFound": {
+    "title": "Page not found",
+    "body": "The page you're looking for doesn't exist or hasn't been published yet.",
+    "home": "Back to home"
+  },
+  "Credits": {
+    "title": "Credits & Licenses",
+    "intro": "This website is built entirely with free and open-source fonts, icons and libraries. Each is listed below with its license.",
+    "fonts": "Fonts",
+    "icons": "Icons",
+    "libraries": "Libraries",
+    "name": "Name",
+    "usage": "Used for",
+    "license": "License",
+    "usageInter": "English text and Latin terms",
+    "usagePlex": "Arabic headings and interface",
+    "usageNaskh": "Arabic long-form articles",
+    "usageMono": "Code and terminal",
+    "usageLucide": "Interface icons",
+    "original": "The AM. logo, diagrams and other graphics are original work."
+  },
+  "Privacy": {
+    "title": "Privacy notice",
+    "metaDescription": "What this website collects, why, and how to request deletion.",
+    "updated": "Last updated: <time>{date}</time>",
+    "intro": "This is the personal website of Abdalla Misbah, based in Riyadh, Saudi Arabia. It collects as little as possible. This page explains exactly what that is.",
+    "formHeading": "Contact form",
+    "formBody": "When you send the form, it collects your name, email, inquiry type, organization (optional) and message. These are used only to reply to you. They are validated on the server and sent as an email to Abdalla's inbox through an email delivery provider (<code>Resend</code>), which processes them only to deliver that email and may keep a delivery record under its own retention policy. They are not stored in a database, and message contents are not written to logs.",
+    "formFallback": "If email delivery is not set up, your message is still checked on the server, then discarded without being sent or stored, and the form offers a link to send it from your own email app instead.",
+    "abuseHeading": "Spam protection",
+    "abuseBody": "To limit abuse, your IP address is used to count submissions per hour. It is kept only in the server's memory, not on disk, to enforce that limit, and is not linked to your message. A hidden field and a minimum fill time also filter out bots.",
+    "retentionHeading": "Retention",
+    "retentionBody": "Messages stay in Abdalla's email inbox as long as needed to reply and follow up, and are deleted on request.",
+    "storageHeading": "Cookies and local storage",
+    "storageBody": "There are no tracking or advertising cookies. <code>NEXT_LOCALE</code> is a session cookie that remembers your language. It is set when you switch language, or when you open a page in a language other than your browser's preferred one. <code>theme</code> in <code>localStorage</code> remembers light/dark/system and never leaves your browser.",
+    "analyticsHeading": "Analytics",
+    "analyticsBody": "The site uses no analytics or tracking scripts. If privacy-friendly analytics is added later, this page will be updated first.",
+    "hostingLogs": "Separately, the hosting provider may keep standard request logs (IP address, browser, page requested) for security and operations.",
+    "rightsHeading": "Your requests",
+    "rightsBody": "To ask what Abdalla holds about you, or to have your messages deleted, email <link>{email}</link>.",
+    "changes": "If this notice changes, the date above will be updated."
+  },
+  "Projects": {
+    "title": "Projects",
+    "intro": "Selected engineering work across banking integration, payments, telecommunications and enterprise platforms.",
+    "metaDescription": "Projects by Abdalla Misbah in banking integration, payments, software architecture, backend engineering and cloud.",
+    "filterLabel": "Filter by category",
+    "all": "All",
+    "categories": {
+      "banking": "Banking & Payments",
+      "architecture": "Software Architecture",
+      "backend": "Backend Engineering",
+      "devops": "Cloud & DevOps"
+    },
+    "count": "{count, plural, one {# project} other {# projects}}",
+    "emptyCategory": "No projects in this category yet.",
+    "present": "Present",
+    "items": {
+      "digital-banking-integration": {
+        "title": "Digital Banking & Payment Integration",
+        "organization": "Sunna Al Tamyuz",
+        "role": "Senior Software Engineer — Integration",
+        "summary": "Payment and transfer integrations between digital channels, core banking and the payment hub for a digital bank in Saudi Arabia."
+      },
+      "pos-payment-aggregation": {
+        "title": "POS & Payment Aggregation",
+        "organization": "Rasid Payments",
+        "role": "Senior Backend Engineer",
+        "summary": "Backend services for a SoftPOS and payment aggregation platform, with integrations for payments, billing, transaction processing and reconciliation."
+      },
+      "zain-master-data-management": {
+        "title": "Master Data Management for Zain",
+        "organization": "Musafer Inc.",
+        "role": "Software Architect & Partner",
+        "summary": "A master data management platform for Zain Telecom subscriber data, built on microservices and Kubernetes."
+      },
+      "e15-government-receipts": {
+        "title": "E15 — National Electronic Government Receipt System",
+        "organization": "NCTR",
+        "role": "Mobile Team Lead",
+        "summary": "Sudan's electronic government receipt system for the Ministry of Finance, with an Android app that sends each transaction over REST or SMS."
+      },
+      "tanfeeth-integration": {
+        "title": "Tanfeeth Integration",
+        "organization": "Sunna Al Tamyuz",
+        "role": "Middleware Integration Engineer",
+        "summary": "Middleware integration of Tanfeeth services with bank systems, coordinating end-to-end API flows between external channels and internal banking platforms."
+      },
+      "goat-questions-generator": {
+        "title": "GOAT Questions Generator & Bank",
+        "summary": "Led the design and development of a question generator and question bank built with NestJS, Python, n8n and GPT."
+      },
+      "romooz-ecommerce": {
+        "title": "ROMOOZ Multi-role E-commerce",
+        "summary": "A multi-role e-commerce platform built with NestJS, MongoDB and React."
+      },
+      "sadad-billing": {
+        "title": "Sadad Billing",
+        "summary": "A billing platform for government and commercial sectors, built with Node.js, Kafka and Kubernetes."
+      }
+    }
+  },
+  "About": {
+    "metaTitle": "About",
+    "metaDescription": "Senior Software Engineer in Riyadh with 15+ years in backend development, software architecture, and enterprise integration.",
+    "title": "About Abdalla",
+    "story": {
+      "p1": "I'm a Senior Software Engineer based in Riyadh, Saudi Arabia, with more than 15 years of experience in backend development, software architecture, and enterprise integration.",
+      "p2": "My professional journey began in software and embedded systems engineering and expanded into enterprise platforms, telecommunications, fintech, and digital banking.",
+      "p3": "Today, I focus primarily on Java and Spring Boot, microservices, payment integrations, and event-driven architectures. I enjoy working across the full engineering lifecycle, from understanding business requirements and defining API contracts to designing, implementing, testing, and deploying reliable backend services.",
+      "p4": "I have also led engineering teams, reviewed architectures, mentored developers, and worked with product owners, platform engineers, security teams, and external technology providers.",
+      "p5": "My engineering philosophy is to solve the right problem with the appropriate level of complexity: prioritize clarity, reliability, maintainability, and effective collaboration over unnecessary abstraction."
+    },
+    "philosophy": {
+      "heading": "Engineering philosophy",
+      "right": {
+        "title": "Solve the right problem",
+        "body": "Start from the business requirement and the API contract before choosing a design."
+      },
+      "complexity": {
+        "title": "Appropriate complexity",
+        "body": "Prefer clarity and maintainability over unnecessary abstraction."
+      },
+      "reliability": {
+        "title": "Reliability through collaboration",
+        "body": "Reliable services come from clear contracts, careful testing, and close work with every team involved."
+      }
+    },
+    "education": {
+      "heading": "Education",
+      "university": "University of Khartoum, Sudan",
+      "degree": "B.Sc. Electrical & Electronics Engineering (First Class Honours), 2007"
+    },
+    "languages": {
+      "heading": "Languages",
+      "arabic": "Arabic",
+      "english": "English"
+    },
+    "more": "More about me"
+  },
+  "Experience": {
+    "title": "Experience",
+    "metaDescription": "Career timeline of Abdalla Misbah: digital banking, payments, fintech, telecom and enterprise software roles since 2008.",
+    "intro": "More than 15 years across digital banking, fintech, telecommunications and enterprise software.",
+    "timelineLabel": "Career timeline",
+    "period": "<start></start> – <end></end>",
+    "present": "Present",
+    "technologies": "Technologies",
+    "education": "Education",
+    "training": "Professional training",
+    "trainingNote": "Courses and training programmes completed.",
+    "trainingBadge": "Training"
+  },
+  "Contact": {
+    "metaTitle": "Contact",
+    "metaDescription": "Get in touch with Abdalla Misbah about backend engineering, banking integration, software architecture or technical collaboration.",
+    "title": "Let's connect",
+    "intro1": "I'm interested in discussing backend engineering, banking integration, software architecture, and meaningful technical collaborations.",
+    "intro2": "Whether you're hiring for a role, exploring a consulting engagement, or would simply like to exchange ideas, feel free to reach out.",
+    "intro3": "I look forward to hearing from you.",
+    "fields": {
+      "name": "Name",
+      "email": "Email",
+      "inquiry": "Inquiry type",
+      "inquiryPlaceholder": "Select an inquiry type",
+      "organization": "Organization (optional)",
+      "message": "Message",
+      "website": "Website (leave empty)"
+    },
+    "inquiry": {
+      "job": "Job opportunity",
+      "consulting": "Consulting",
+      "collaboration": "Collaboration",
+      "other": "Other"
+    },
+    "consent": "I've read the <link>privacy notice</link>.",
+    "submit": "Send message",
+    "submitting": "Sending…",
+    "errorSummary": "Please fix the following fields:",
+    "errors": {
+      "nameLength": "Enter your name (2–100 characters).",
+      "emailInvalid": "Enter a valid email address.",
+      "inquiryRequired": "Choose an inquiry type.",
+      "organizationLength": "Organization must be 120 characters or fewer.",
+      "messageLength": "Write a message of 20–5000 characters.",
+      "consentRequired": "Please confirm you've read the privacy notice."
+    },
+    "success": "Thank you — your message has been sent. I'll get back to you by email.",
+    "unavailable": "The contact form isn't available right now. Please email me directly — your message is kept below.",
+    "openEmail": "Open in your email app",
+    "rateLimited": "Too many messages were sent from your connection. Please try again later or email me directly.",
+    "failed": "Your message couldn't be sent. Please try again or email me directly.",
+    "aside": {
+      "heading": "Other ways to reach me",
+      "email": "Email",
+      "github": "GitHub",
+      "linkedin": "LinkedIn",
+      "location": "Location",
+      "city": "Riyadh"
+    }
+  }
+}
